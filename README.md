@@ -10,3 +10,4 @@ Some Description!
 3. Let's see...
 
 ** Shows only for b1 **.
+** Shows only for branch 'b2'.
