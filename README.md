@@ -6,3 +6,5 @@ Some Description!
 
 ## Local Development
 1. Open index.html in your browser.
+2. Yes sirrrrrr
+3. Let's see...
