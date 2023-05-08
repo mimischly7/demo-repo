@@ -9,4 +9,4 @@ Some Description!
 2. Yes sirrrrrr
 3. Let's see...
 
-** Shows only for branch 'b1'.
+** Shows only for branch 'b2'.
